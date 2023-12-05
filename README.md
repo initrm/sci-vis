@@ -11,6 +11,8 @@ Il progetto è organizzato in diverse directory:
 - ```images```: contiene le immagini ottenute e/o prodotte utilizzate all'interno della presentazione
 - ```data```: contiene i file nei quali sono presenti i dati utilizzati (generalmente ```.csv```)
 - ```references```: contiene i riferimenti alle fonti
+- ```resources```: contiene risorse accessorie utilizzate per la creazione della presentazione
+
 ## Membri
 
 Il progetto è svolto da:
