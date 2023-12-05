@@ -16,4 +16,4 @@ Il progetto è organizzato in diverse directory:
 Il progetto è svolto da:
 - Andrea Tinelli (andrea.tinelli@studenti.unimi.it), matricola: ```941800```
 - Federico Coscia (federico.coscia1@studenti.unimi.it), matricola: ```977772```
-- Luca Rapucci (TBD) ```TBD```
+- Luca Rapucci (luca.rappucci@studenti.unimi.it) ```02545A```
