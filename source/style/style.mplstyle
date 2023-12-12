@@ -1,0 +1,31 @@
+### how to use
+# 
+# from matplotlib import font_manager
+# 
+# font_dirs = ['style/fonts/']
+# font_files = font_manager.findSystemFonts(fontpaths=font_dirs)
+# 
+# for font_file in font_files:
+#     font_manager.fontManager.addfont(font_file)
+# 
+# plt.style.use('default')
+# plt.style.use('style/style.mplstyle')
+
+# axes.facecolor : ffe8ed
+# figure.facecolor : ffe8ed
+xtick.direction : out
+ytick.direction : out
+axes.spines.top : False
+axes.spines.right : False 
+axes.titlesize : 16
+figure.figsize : 10.0, 10.0
+axes.edgecolor : 222222
+text.color : 222222
+font.family : Comfortaa
+grid.linestyle : --
+grid.alpha : 0.5
+axes.grid : off
+axes.axisbelow : True
+legend.framealpha : 1
+legend.shadow : True
+legend.loc : best
